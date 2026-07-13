@@ -2900,7 +2900,7 @@ if (urlStr.includes('.mp4') || urlStr.includes('video')) {
 ┌─ SYSTEM ──────────────┐
 │ *Owner*: ${OWNER_NAME}
 │ *Prefix*: ${PREFIX}
-│ *Version*: 1.2.0
+│ *Version*: 1.3.0
 │ *Commands*: ${totalCommandsCount}
 │ *Mode*: ${config.mode || 'private'}
 │ *Day*: ${now.toLocaleDateString('en-US', { weekday: 'long' })}
